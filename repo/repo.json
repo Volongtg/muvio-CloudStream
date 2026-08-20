@@ -1,0 +1,8 @@
+{
+  "name": "HHKUNGFU",
+  "description": "Kho extension CloudStream cho HHKUNGFU",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Volongtg/CloudStream/builds/plugins.json"
+  ]
+}
